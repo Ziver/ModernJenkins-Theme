@@ -2,6 +2,7 @@ ModernJenkins
 =============
 
 A Jenkins theme to beautify your jenkins (SimpleThemePlugin required)
+This is a modified version of the original theme by mikepenz
 
 
 
@@ -24,20 +25,8 @@ Preview
 ------------
 ![Preview](https://raw.githubusercontent.com/mikepenz/ModernJenkins/master/img/preview.png)
 
-
-
-Contributors
-------------
-- [Dominik Angerer][1]
-- [Thomas Pink][2]
-- [Mike Penz][3]
-
-
 Thanks to
 ------------
-- https://github.com/rackerlabs/canon-jenkins for the loading and building indicators
+- https://github.com/mikepenz/ModernJenkins-Theme
+- https://github.com/rackerlabs/canon-jenkins
 
-
-  [1]: https://github.com/dominikangerer
-  [2]: https://github.com/thomaspink
-  [3]: https://github.com/mikepenz
