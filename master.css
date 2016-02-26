@@ -1,7 +1,6 @@
 /** 
     INFO:
     replace "place-your-logo-here" with a logo for your company
-    replace "place-your-domain-here" with the domain of you jenkins so it finds the jenkins.png
     replace the hey #2980b9 with a accent-color you love
 **/
 
@@ -16,11 +15,12 @@
 #jenkins-home-link:before {
     content: '';
     display: block;
-    width: 25px;
+    width: 40px;
     height: 40px;
-    background: url(/*place-your-domain-here*/"/userContent/jenkins.png") 50% 50% no-repeat;
-    background-size: 25px;
+    background: url("https://raw.githubusercontent.com/Ziver/ModernJenkins-Theme/master/jenkins.png") 10% 10% no-repeat;
+    background-size: 40px;
 }
+
 #jenkins-name-icon { display: none }
 #jenkins-head-icon { display: none }
 #description-link { display: none }
@@ -221,6 +221,7 @@ textarea { padding: 6px 12px }
 #side-panel { }
 #tasks {
     margin-top: 5px;
+    margin-bottom: 50px;
     font-size: 14px;
     margin-right: 25px;
     padding-left: 0;
@@ -230,14 +231,14 @@ textarea { padding: 6px 12px }
 #tasks a:hover,
 #buildHistory a:hover { text-decoration: underline }
 .task a:nth-child(n+1) {
-    padding: 5px 10px 5px 0;
+    padding: 0px 10px 5px 0;
     display: inline-block;
 }
 .task a:first-child,
 .task img { /*display: none;_NO__DOTCOMMA__AFTER__*/ }
 /* make the link target bigger  */
-#buildHistory .model-link { padding: 10px 16px 10px 0 }
-#buildHistory .pane-header { font-size: 16px }
+#buildHistory .model-link { padding: 0px 16px 0px 0 }
+#buildHistory .pane-header { font-size: 13px }
 #buildHistory .build-row td:not(.pane-header) { padding: 4px 0 4px 10px }
 #buildHistory .build-row:nth-child(2n) { background-color: #f9f9f9 }
 #buildHistory .build-row { 
@@ -245,6 +246,7 @@ textarea { padding: 6px 12px }
     padding: 0px !important;
 }
 #buildHistory .build-row:last-child { display: none }
+#buildHistory .pane-header { font-size: 13px }
 .build-row:only-child { display: table-row!important }
 .build-row { 
     display: table-row!important;
