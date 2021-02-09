@@ -17,6 +17,11 @@ Installation
 3. Set _URL of theme CSS_ to `https://cdn.rawgit.com/Ziver/ModernJenkins-Theme/jenkins-2.x/master.css`
 
 
+Preview
+-------
+![Preview](img/preview.png)
+
+
 Thanks to
 ------------
 - https://github.com/mikepenz/ModernJenkins-Theme
