@@ -45,7 +45,6 @@ td.progress-bar-done {
 td.progress-bar-left { border: 1px solid #BBBBBB }
 .build-status-link > img[src*="/blue.png"] {
     background: #00a86d;
-    margin-left: -12px !important;
     margin-top: -6px !important;
     margin-bottom: -10px !important;
     width: 0 !important;
@@ -58,7 +57,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-status-link > img[src*="/red.png"] {
     background: #c50022;
-    margin-left: -12px !important;
     margin-top: -6px !important;
     margin-bottom: -10px !important;
     width: 0 !important;
@@ -71,7 +69,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-status-link > img[src*="/aborted.png"] {
     background: #CCCCCC;
-    margin-left: -12px !important;
     margin-top: -6px !important;
     margin-bottom: -10px !important;
     width: 0 !important;
@@ -84,7 +81,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-status-link > img[src*="/yellow.png"] {
     background: #FAD153;
-    margin-left: -12px !important;
     margin-top: -6px !important;
     margin-bottom: -10px !important;
     width: 0 !important;
@@ -100,7 +96,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 .build-status-link > img[src*="/blue_anime.gif"],
 .build-status-link > img[src*="/aborted_anime.gif"],
 .build-status-link > img[src*="/yellow_anime.gif"] {
-    margin-left: -12px !important;
     margin-top: -6px !important;
     margin-bottom: -10px !important;
     width: 0 !important;
@@ -114,7 +109,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-caption > img[src*="/blue.png"] {
     background: #00a86d;
-    margin-left: -16px !important;
     margin-top: -4px !important;
     width: 0 !important;
     height: 0 !important;
@@ -126,7 +120,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-caption > img[src*="/red.png"] {
     background: #c50022;
-    margin-left: -16px !important;
     margin-top: -4px !important;
     width: 0 !important;
     height: 0 !important;
@@ -138,7 +131,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-caption > img[src*="/aborted.png"] {
     background: #CCCCCC;
-    margin-left: -16px !important;
     margin-top: -4px !important;
     width: 0 !important;
     height: 0 !important;
@@ -150,7 +142,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 }
 .build-caption > img[src*="/yellow.png"] {
     background: #FAD153;
-    margin-left: -16px !important;
     margin-top: -4px !important;
     width: 0 !important;
     height: 0 !important;
@@ -166,7 +157,6 @@ td.progress-bar-left { border: 1px solid #BBBBBB }
 .build-caption > img[src*="/aborted_anime.gif"],
 .build-caption > img[src*="/yellow_anime.gif"] {
     background: #CCCCCC;
-    margin-left: -16px !important;
     margin-top: -4px !important;
     width: 0 !important;
     height: 0 !important;
